@@ -1,4 +1,4 @@
-import streamlit==23.2.1
+import streamlit
 import pandas
 import yfinance
 import altair
