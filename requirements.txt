@@ -3,7 +3,6 @@ pandas
 yfinance
 altair
 datetime
-matplotlib.pyplot
 numpy
 pandas_datareader
 sklearn
