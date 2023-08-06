@@ -6,5 +6,4 @@ datetime
 numpy
 pandas_datareader
 sklearn
-sklearn.linear_model
-sklearn.model_selection
+
