@@ -4,6 +4,7 @@ yfinance
 altair
 datetime
 numpy
-pandas_datareader
 sklearn
+pandas_datareader
+
 
