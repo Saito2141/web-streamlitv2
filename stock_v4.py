@@ -2,7 +2,7 @@ import datetime
 
 import pandas as pd
 import yfinance
-import altair as alt
+# import altair as alt
 import streamlit as st
 # import IPython.display
 # import matplotlib.pyplot as plt

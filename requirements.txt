@@ -1,7 +1,6 @@
 streamlit
 pandas
 yfinance
-altair
 datetime
 numpy
 scikit-learn==1.3.0
