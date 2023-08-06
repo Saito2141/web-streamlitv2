@@ -2,10 +2,10 @@ import datetime
 
 import pandas as pd
 import yfinance
-import altair as alt
+# import altair as alt
 import streamlit as st
-import IPython.display
-import matplotlib.pyplot as plt
+# import IPython.display
+# import matplotlib.pyplot as plt
 import numpy as np
 import pandas_datareader
 import sklearn
