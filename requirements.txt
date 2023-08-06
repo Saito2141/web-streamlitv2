@@ -6,7 +6,7 @@ datetime
 numpy
 scikit-learn
 pandas_datareader
-scikit-learn.linear_model
-scikit-learn.model_selection
+sklearn.linear_model
+sklearn.model_selection
 
 
